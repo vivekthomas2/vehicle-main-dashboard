@@ -1,53 +1,47 @@
-🚛 Vehicle Maintenance & Renewal Tracker (Excel-Based)
+Vehicle Maintenance & Inventory Tracker 🚛🔧📦
+About 📌
 
-A comprehensive Excel-based tracking system designed to manage vehicle maintenance, service activities, AMC contracts, and renewal monitoring for mixed fleets. This project helps organizations reduce downtime, control costs, and avoid compliance penalties.
+This repository contains Excel-based tracking systems for fleet management, maintenance activities, and daily garage inventory. It helps organizations monitor vehicle renewals, track maintenance (preventive, repair, AMC), and manage fast-moving spare parts used in daily operations.
 
-📌 Overview
+The system is designed to improve operational efficiency ⚙️, reduce downtime ⏳, and prevent compliance issues 🚨 such as missed renewals or stock shortages.
 
-This tracker consolidates fleet operations, maintenance activities, and cost tracking into a single structured dataset. It supports multiple asset types including:
+Key Components 🧩
 
-Cars (SUV, Sedan, Hatchback, MPV)
-Pickups & Trucks
-Buses
-Trailers
-Forklifts (Material Handling Equipment)
+1.Vehicle Renewal Tracker 🚗
+Tracks registration and insurance dates 📅
+Helps avoid penalties and compliance issues
 
-The system enables data-driven fleet management by combining maintenance records with financial and operational insights.
+2.Maintenance Tracker 🔧
+Covers preventive maintenance, corrective repairs, and AMC
+Includes cost tracking 💰 and vendor details
+Supports time-based analysis 📊
 
-🎯 Objectives
-Prevent fines due to missed renewals
-Track maintenance and service history
-Monitor AMC (Annual Maintenance Contracts)
-Control operational and repair costs
-Enable analytical reporting for decision-making
+3.Daily Inventory Tracker 📦
+Focuses on high-usage garage items
+Tracks current stock vs minimum stock
+Helps prevent stock-outs ⚠️
 
-⚙️ Key Features
-✅ Multi-asset fleet tracking
-✅ Maintenance classification (Preventive / Repair / AMC)
-✅ Cost tracking with VAT calculation
-✅ Vendor-level service tracking
-✅ Time-series data for monthly analysis
-✅ Ready for Excel / Power BI dashboards
-📈 Analytical Capabilities
+Features ✨
+Multi-vehicle fleet support (cars, trucks, buses, forklifts, trailers) 🚛
+Maintenance classification (Preventive / Repair / AMC) 🔧
+Cost tracking with tax (VAT) 💰
+Daily-use spare parts monitoring 📦
+Simple and easy-to-use Excel structure 📊
+Ready for reporting and dashboard integration 📈
 
-This dataset enables:
+Use Cases 🎯
+Fleet and transport management 🚚
+HR & admin operations 🧑‍💼
+Warehouse and logistics teams 📦
 
-📊 Maintenance cost trend analysis (monthly/quarterly)
-🚨 Identification of high-maintenance vehicles
-🔧 Preventive vs corrective maintenance ratio
-💰 AMC vs repair cost comparison
-🏢 Vendor performance evaluation
+Usage 🛠️
+Download the Excel files
+Update data as per your fleet and inventory
+Monitor regularly for renewals and stock levels
+Use filters or pivot tables for analysis
 
-🧠 Use Cases
-Fleet Management Teams
-HR & Admin Departments
-Logistics & Transport Operations
-Warehouse Equipment Monitoring
-🛠️ Tools Used
-Microsoft Excel
-(Optional) Power BI
-📌 Future Scope
-Automated renewal alerts
-Integration with fleet management systems
-Predictive maintenance using analytics
-AI-based cost optimization
+
+License 📄
+
+Free to use for personal and professional purposes.
+Small to mid-scale fleet operations
